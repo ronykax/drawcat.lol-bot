@@ -12,5 +12,5 @@ discord app to query drawcat.lol's database
 
 ## getting started
 1. clone this repo
-2. create a `.env` file and fill in the values (refer to `[.env.example](/.env.example)`)
+2. create a `.env` file and fill in the values (refer to [`.env.example`](/.env.example))
 3. run `bun run .`
