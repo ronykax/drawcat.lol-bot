@@ -7,8 +7,8 @@ discord app to query drawcat.lol's database
 -   `/cat get [uuid]`
 -   `/cat search [name]`
 -   `/cat delete [uuid]`
--   `/cat user [user]`
--   `/cat ban [user]`
+-   `/cat user [uuid | email]`
+-   `/cat ban [uuid | email]`
 
 ## getting started
 1. clone this repo
